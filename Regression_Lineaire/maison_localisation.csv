@@ -1,0 +1,11 @@
+N°,Localisation,Niveau_Localisation,Prix_Moyen
+1,Zone rurale,1,60000
+2,Centre de village,2,80000
+3,Petite ville,3,100000
+4,Banlieue,4,140000
+5,Quartier résidentiel,5,180000
+6,Périphérie de la ville,6,230000
+7,Centre-ville,7,300000
+8,Quartier prestigieux,8,420000
+9,Quartier de luxe,9,650000
+10,Bord de mer / Front de mer,10,1000000
